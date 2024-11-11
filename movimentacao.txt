@@ -1,0 +1,17 @@
+id;nome;tipo_produto;0;1.5;sul;08/11/2024 15:06:18
+a64a0f42-be20-4ec7-8ff9-e71b79d3a6ec;banana;frutas;1;10.0;frutas;08/11/2024 19:01:31
+d79aa8bf-0cc1-44e8-ab65-715567e9c92a;pera;fruta;10;99.0;aqui;08/11/2024 19:08:59
+a50b1955-8b12-453e-bddf-7e1d20559182;blusa;roupa;1;25.0;vestiario;08/11/2024 19:23:25
+6301d9dd-8d1f-4546-8f63-8462ccf85314;piao;brinquedo;2;6.0;sul;09/11/2024 08:42:27
+a247eeb9-b3cc-41ea-b418-ee3a8936d685;piao;brinquedo;1;19.0;a;09/11/2024 08:45:04
+a0bbbf35-c42b-4d2c-8cc4-4b09f5781eae;arroz;comida;1;5.0;sul;09/11/2024 08:57:40
+5d9052ac-49de-4497-9665-ca88693559a8;uvas;frutas;1;1.0;a;09/11/2024 09:35:53
+5d9052ac-49de-4497-9665-ca88693559a8;uvas;frutas;1;1.0;a;09/11/2024 09:35:53
+e50b6ed7-f80a-47fd-a7c6-3837977d04c3;baiao;comida;1;10.0;a;09/11/2024 12:58:27
+a4ccc1eb-b2f4-4c48-a523-db71d916f4b5;cristal;decoracao;1;20.0;aqui;09/11/2024 13:27:26
+a4ccc1eb-b2f4-4c48-a523-db71d916f4b5;cristal;decoracao;5;70.0;aqui;09/11/2024 13:28:04
+5c0d1c9f-31ed-44ce-b331-2028e03231c1;brigadeiro;comida;1;2.0;a;09/11/2024 18:29:36
+5c0d1c9f-31ed-44ce-b331-2028e03231c1;brigadeiro;comida;10;2.0;a;09/11/2024 18:31:31
+c215e8b4-894e-473f-9820-7739669a7ae3;abacate;comida;10;3.0;bloco A;11/11/2024 11:45:02
+c215e8b4-894e-473f-9820-7739669a7ae3;abacate;comida;20;5;bloco A;11/11/2024 11:45:02
+c215e8b4-894e-473f-9820-7739669a7ae3;abacate;comida;19;5.0;bloco A;11/11/2024 11:45:02
